@@ -134,6 +134,7 @@
                                                     </span>
                                                 </div>
                                             </li>
+                                            <li><a href="" class="nav-link menu-title">Dika XI-RPL1</a></li>
                                             <li><a href="{{route('app.index')}}" class="nav-link menu-title">Home</a></li>
                                             <li><a href="{{route('shop.index')}}" class="nav-link menu-title">Shop</a></li>
                                             <li><a href="{{route('cart.index')}}" class="nav-link menu-title">Cart</a></li>
